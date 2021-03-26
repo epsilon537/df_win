@@ -1,0 +1,21 @@
+<HEADER>
+frames 5
+width 6
+height 2
+color green
+slowdown 4
+</HEADER>
+<BODY>
+ ____ 
+/__o\
+end
+ ____ 
+/_o__\
+end
+ ____ 
+/o___\
+end
+</BODY>
+<FOOTER>
+version 1
+</FOOTER>
